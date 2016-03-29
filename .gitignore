@@ -1,0 +1,9 @@
+syntax: glob
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__
+
+# pytest cache directory
+.cache/
